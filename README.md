@@ -1,2 +1,0 @@
-# DBQuiery-
-DB Quiery.
